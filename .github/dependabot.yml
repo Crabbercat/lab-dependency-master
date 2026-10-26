@@ -9,7 +9,7 @@ updates:
     labels:
       - "security-patch"
 
-  # Cấu hình tự động cập nhật định kỳ cho chính các file máy ảo GitHub Actions (Chương 6)
+  # Cấu hình tự động cập nhật định kỳ cho chính các file máy ảo GitHub Actions (in Chương 6)
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
